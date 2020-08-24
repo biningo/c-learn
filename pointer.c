@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//指针
 int main(int argc, char const *argv[])
 {
     //指针大小 64 8byte 32 4byte
