@@ -66,7 +66,7 @@ void test(){
 }
 
 
-int main(int argc, char const *argv[])
+int main()
 {
     test_memset();
     test_memcopy();
