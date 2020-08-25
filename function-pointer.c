@@ -3,7 +3,7 @@
 int max(int one,int second){
     return one>second?one:second;
 }
-int main(int argc, char const *argv[])
+int main()
 {
     int (*maxP)(int one,int second);
     maxP = max;
